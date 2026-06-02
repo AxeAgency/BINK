@@ -2,6 +2,6 @@
 
 If you discover a security vulnerability, please report it to:
 
-tech@binkcoin.io
+tech@binkpay.net
 
 We take all security reports seriously.
