@@ -1,0 +1,11 @@
+{
+  "name": "@binkpay/sdk",
+  "version": "0.1.0",
+  "description": "Official BINKPAY SDK",
+  "main": "src/client.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/client.ts"
+  }
+}
